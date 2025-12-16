@@ -2,6 +2,9 @@
 
 Upload your documents and ask questions about them. Everything stays on your computer—no cloud, no sending data anywhere. Uses Ollama to run an LLM locally.
 
+### Our VIDEO DEMO 
+https://www.youtube.com/watch?v=N8b3yETTTbA
+
 ## What you need
 
 - Python 3.9+
