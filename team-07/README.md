@@ -52,7 +52,7 @@ ollama serve
 ollama pull llama3.2
 ```
 
-Then just go to `http://localhost:5173`, upload a file, and start asking questions.
+**Then go to `http://localhost:5173` to use the app** - upload a file and start asking questions!
 
 ## Stuck?
 
